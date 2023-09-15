@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hey, I'm Sanuja 👋🏽 👨🏾‍💻
 
+A curious mind navigating the world of technology. Undergraduate student at the University of Westminster with a passion for web development, including React.js, and a keen interest in exploring various tech fields. Comfortable with HTML, CSS, JavaScript, Python, and Java. Always eager to learn and grow in the ever-evolving tech landscape. Connect with me to share ideas and insights across different tech domains! 🌐💡
+
+## Find Me On 🌎 :
+
+- [LinkedIn](https://www.linkedin.com/in/sanujade/)
+
+-----
 <!--
 **sanujaDe/sanujaDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
